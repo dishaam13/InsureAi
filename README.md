@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 TrustAI - Ethical Insurance Marketing Agent
 ## INNOVGENIUS Hackathon - Round 2 Final Submission
 
@@ -62,3 +63,6 @@ npm start
 ---
 
 See **DEMO_PREVIEW.md** for visual walkthrough! 🎯
+=======
+# InsureAi
+>>>>>>> 7d72076ddc1f0d78ce9d8a29eb0bc78e829d65b6
